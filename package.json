@@ -2,11 +2,12 @@
   "dependencies": {
     "vite": "^7.1.12"
   },
- "scripts": {
+"scripts": {
   "dev": "vite",
-  "build": "npx vite build",
+  "build": "vite build",
   "preview": "vite preview"
 }
+
 
 }
 
